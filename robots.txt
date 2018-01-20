@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /theme
+Disallow: /animate-logo
+Disallow: /tafasu-api-docs
+Disallow: /aegisub-thai-dict
